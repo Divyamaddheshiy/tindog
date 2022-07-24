@@ -1,3 +1,1 @@
-# tindog
-
-xskxkssx
+https://divyamaddy.github.io/tindog/
